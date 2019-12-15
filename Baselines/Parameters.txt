@@ -1,0 +1,11 @@
+CIFAR-10
+Trainable params: 1,117,866
+Nodes per layer (3 layers): 302.87967676160974
+
+CIFAR-10 Gray:
+Trainable params: 1,117,290
+Nodes per layer (3 layers): 531.8571751033485
+
+f-MNIST:
+Trainable params: 871,530
+Nodes per layer (3 layers): 490.28648380633206
