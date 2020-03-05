@@ -9,7 +9,7 @@ hyperparameters and other conditions, such as neural network shape, regularizati
 data, to inquire into methods for optimizing model performance in respect of image classification.
 
 ## About this Repository
-Refer to the report in this repository. This repository also contains code supporting our report. 
+Refer to the report in this repository. This repository also contains supporting notebooks. 
 
 ## Team:
 * Alexander Peplowski
